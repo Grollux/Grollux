@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grollux
 - 👀 I’m interested in FPV
-- 🌱 I’m currently learning SFML and VHDL
+- 🌱 I’m currently learning C, Rust
 - 💞️ I’m studying Electrical Engineering
 - 📫 How to reach me: simon.schiessl@proton.me 
 
